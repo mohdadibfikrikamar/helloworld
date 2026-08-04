@@ -36,3 +36,6 @@ print("Number of sentences:", message.count("?")) ## count only sentence with qu
 print(message_1)
 print("Number of sentences:", message_1.count("a"))
 print(message_2)
+print(message_2[0:7])
+print(message[1])
+print(message[-1])
